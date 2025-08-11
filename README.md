@@ -39,7 +39,7 @@ The **Marg Purchase Entry Automation Tool** is a desktop application that:
    - Check extracted data in the preview screen.
 
 4. **Automated Marg Entry**
-   - Tool launches Marg ERP and inputs all data automatically.
+   - Tool inputs all data automatically in Marg purchase entry.
 
 ---
 
