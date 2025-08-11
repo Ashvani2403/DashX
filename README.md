@@ -18,7 +18,6 @@ The **Marg Purchase Entry Automation Tool** is a desktop application that:
 
 - 🔍 **AI Data Extraction** — Extracts structured purchase data with high accuracy.
 - 🖱 **Custom Column Mapping** — Choose columns and order to match your workflow.
-- ⚙ **Default Value Assignment** — Pre-fill standard fields automatically.
 - ⏱ **Hands-Free Marg Entry** — Automatically inputs the prepared data into Marg Purchase Entry.
 - 📋 **Preview Before Entry** — Verify data before it's entered.
 - 💻 **No Complex Setup** — Runs on Windows, works alongside Marg ERP.
