@@ -47,15 +47,14 @@ The **Marg Purchase Entry Automation Tool** is a desktop application that:
 
 1. **Download the latest release** from the [📥 Releases](../../releases) section.
 2. Extract the ZIP file to your desired location.
-3. Run the executable file (`MargAutomationTool.exe`).
+3. Run the executable file (`DashXSetup`).
 
 ---
 
 ## 🛠 Requirements
 
-- **OS:** Windows 10/11
+- **OS:** Windows
 - **Marg ERP:** Installed and configured
-- **Permissions:** Access to Marg Purchase Entry module
 
 ---
 
@@ -70,8 +69,7 @@ The **Marg Purchase Entry Automation Tool** is a desktop application that:
 
 ## 🔒 Privacy & Safety
 
-- The tool does **not** send your data over the internet.
-- All processing happens locally on your machine.
+- The tool does **not** sell your data over the internet.
 - No changes are made to your Marg ERP installation.
 
 ---
@@ -79,14 +77,7 @@ The **Marg Purchase Entry Automation Tool** is a desktop application that:
 ## 📌 Notes
 
 - This tool **does not** require OCR.
-- AI model is optimized for purchase entry structure.
 - Designed for businesses looking to save time and reduce data entry errors.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 ---
 
@@ -94,14 +85,14 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 If you face issues:
 - Open an [Issue](../../issues) in this repo
-- Or contact support at: **youremail@example.com**
+- Or contact support at: **ashvani.2403@gmail.com**
 
 ---
 
-## ⭐ Contribute
+## ⭐ Suggestions
 
 If you like this project, please consider giving it a ⭐ on GitHub.  
-Contributions and suggestions are welcome!
+Suggestions are welcome!
 
 ---
 
